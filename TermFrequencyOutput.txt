@@ -1,0 +1,8 @@
+Hadoop&#&#&file1.txt		1.30103
+Hadoop&#&#&file2.txt		1.0
+an&#&#&file2.txt		1.0
+elephant&#&#&file2.txt		1.0
+is&#&#&file1.txt		1.0
+is&#&#&file2.txt		1.0
+yellow&#&#&file1.txt		1.0
+yellow&#&#&file2.txt		1.0

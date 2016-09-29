@@ -1,0 +1,8 @@
+Hadoop&#&#&file1.txt		2
+Hadoop&#&#&file2.txt		1
+an&#&#&file2.txt		1
+elephant&#&#&file2.txt		1
+is&#&#&file1.txt		1
+is&#&#&file2.txt		1
+yellow&#&#&file1.txt		1
+yellow&#&#&file2.txt		1

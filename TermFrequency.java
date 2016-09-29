@@ -18,6 +18,10 @@ import org.apache.hadoop.util.ToolRunner;
 import org.apache.log4j.Logger;
 import org.apache.commons.logging.LogFactory;
 
+// Author : Pawan Araballi
+// Email : paraball@uncc.edu
+// Student ID : 800935601
+
 public class TermFrequency extends Configured implements Tool {
 
 	private static final Logger LOG = Logger.getLogger(TermFrequency.class);
