@@ -93,6 +93,7 @@ file1.txt	0.69267905 <br>
 <li>Create the jar file jar -cvf rank.jar -C build/. </li>
 <li>Run the hadoop hadoop jar rank.jar search /user/cloudera/rank/input /user/cloudera/rank/output </li>
 <li>The output file would be viewed in Hadoop fs -cat /user/cloudera/rank/output/* </li>
+</ul>
 
 <b>Sample Output </b>
 
